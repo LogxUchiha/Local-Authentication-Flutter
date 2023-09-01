@@ -31,6 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
 
+
   #to access local authentication
   local_auth: ^2.1.7
 
