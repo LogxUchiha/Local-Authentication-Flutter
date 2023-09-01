@@ -31,17 +31,26 @@ dependencies:
   flutter:
     sdk: flutter
 
+<<<<<<< HEAD
   #to access local authentication
   local_auth: ^2.1.7
 
   #to prevent screenshot
   window_manager: ^0.3.6
+=======
+  local_auth: ^2.1.7
+  
+
+>>>>>>> eb8b173cf7bcd83ed6938a548b08f8abe1bc41e3
 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+<<<<<<< HEAD
   flutter_windowmanager: ^0.2.0
+=======
+>>>>>>> eb8b173cf7bcd83ed6938a548b08f8abe1bc41e3
 
 dev_dependencies:
   flutter_test:

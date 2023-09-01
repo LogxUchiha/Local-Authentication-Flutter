@@ -3,8 +3,11 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
   screen_retriever
   window_manager
+=======
+>>>>>>> eb8b173cf7bcd83ed6938a548b08f8abe1bc41e3
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
