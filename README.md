@@ -1,4 +1,4 @@
-# bio
+# Local Authentication using Flutter
 
 A new Flutter project.
 
